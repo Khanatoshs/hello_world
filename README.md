@@ -1,4 +1,4 @@
 # hello_world
 Learning the ropes
 
-Following tutorials
+Following tutorials and doing the best I can
